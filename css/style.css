@@ -1,0 +1,16 @@
+.logo {
+	font-family: 'Impact', sans-serif;
+	font-size: 30px;
+}
+
+header {
+	background-color: yellow;
+}
+
+main {
+	background-color: aqua;
+}
+
+footer {
+	background-color: green;
+}
